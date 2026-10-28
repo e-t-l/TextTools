@@ -7,12 +7,12 @@
     <string name="features">Features</string>
     <string name="context_menu_option">Context menu option: </string>
 
-    <string name="context_menu_whatsapp">[T\u00B2] WhatsApp</string>
+    <string name="context_menu_whatsapp">WhatsApp</string>
     <string name="whatsapp">WhatsApp</string>
     <string name="wup_title">Text unsaved numbers in WhatsApp</string>
     <string name="wup_desc">Easily text any unsaved number in WhatsApp. Useful if you want to text people for temporary purposes.</string>
 
-    <string name="context_menu_eval">[T\u00B2] Evaluate</string>
+    <string name="context_menu_eval">Evaluate</string>
     <string name="eval_title">Evaluate mathematical expressions</string>
     <string name="eval_title_small">Evaluate</string>
     <string name="eval_desc">Evaluate mathematical expressions inline. The result can be copied, or applied to the selected text when it is editable.</string>
@@ -36,7 +36,7 @@
     <string name="decimal_points_desc">Number of digits shown after the decimal point as a result of an evaluate function. If the result is an integer (whole number with no decimal), the decimal point will not be shown.</string>
     <string name="releases">Releases page</string>
 
-    <string name="context_menu_transform">[T\u00B2] Transform</string>
+    <string name="context_menu_transform">Transform</string>
     <string name="transform">Transform</string>
     <string name="transform_message">Select how you want to transform the text</string>
     <string name="transform_long">Transform text</string>
@@ -69,7 +69,7 @@
     <string name="previewed_text_truncated">Previewed result is truncated. Transformation will be applied to the entire selection.</string>
     <string name="donate">Donate</string>
     <string name="donate_msg">Do you like this app? If so, you can make a small donation. This helps to keep me motivated and work on this project to make it even better.</string>
-    <string name="context_menu_save">[T\u00B2] Save</string>
+    <string name="context_menu_save">Save</string>
     <string name="save_text_title">Save text</string>
     <string name="save_text_message">Save the selected text so that you can access it later</string>
     <string name="save_text_desc">Lets you save the selected text (to some file) so that you can access it later.</string>
@@ -81,7 +81,7 @@
     <string name="save_text_error">Failed to save text</string>
 
     <string name="title_activity_find_and_replace">Find &amp; Replace</string>
-    <string name="context_menu_find_and_replace">[T\u00B2] Find &amp; Replace</string>
+    <string name="context_menu_find_and_replace">Find &amp; Replace</string>
     <string name="replace_this">Replace</string>
     <string name="replace_all">Replace All</string>
     <string name="find_next">Find Next (%1$d/%2$d)</string>
@@ -145,7 +145,7 @@
     <string name="symbols">Other symbols</string>
     <string name="word_frequency">Word frequency</string>
     <string name="statistics">Statistics</string>
-    <string name="context_menu_text_count">[T\u00B2] Text Analysis</string>
+    <string name="context_menu_text_count">Text Analysis</string>
     <string name="text_count_desc">Get detailed analysis about character count, word count, letter count and more for the selected text.</string>
     <string name="title_activity_on_boarding">Onboarding</string>
     <string name="mode_select_title">Context menu options</string>
@@ -196,7 +196,7 @@
     <string name="json_blocks">JSON Blocks</string>
 
     <string name="number_analysis">Number Analysis</string>
-    <string name="context_menu_number_analysis">[T\u00B2] Number Analysis</string>
+    <string name="context_menu_number_analysis">Number Analysis</string>
     <string name="number_analysis_desc">Analyze numbers, convert them to different bases, find factors, prime information, and more.</string>
     <string name="conversions">Conversions</string>
     <string name="math_transformations">Mathematical Transformations</string>
@@ -257,8 +257,8 @@
     <string name="track_flight_fail">Failed to track flight</string>
     <string name="add_to_calendar_fail">Failed to add to calendar</string>
 
-    <string name="context_menu_text_action">[T\u00B2] Actions</string>
-    <string name="context_menu_text_template">[T\u00B2] Text Template</string>
+    <string name="context_menu_text_action">Actions</string>
+    <string name="context_menu_text_template">Text Template</string>
     <string name="text_template">Text Template</string>
     <string name="text_template_desc">Create and apply custom text templates with your selected text as a parameter.</string>
     <string name="create_template">Create template</string>
